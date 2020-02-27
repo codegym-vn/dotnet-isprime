@@ -1,0 +1,11 @@
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/IsPrime/bin/Debug/netcoreapp3.1/IsPrime
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/IsPrime/bin/Debug/netcoreapp3.1/IsPrime.deps.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/IsPrime/bin/Debug/netcoreapp3.1/IsPrime.runtimeconfig.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/IsPrime/bin/Debug/netcoreapp3.1/IsPrime.runtimeconfig.dev.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/IsPrime/bin/Debug/netcoreapp3.1/IsPrime.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/IsPrime/bin/Debug/netcoreapp3.1/IsPrime.pdb
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/IsPrime/obj/Debug/netcoreapp3.1/IsPrime.csprojAssemblyReference.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/IsPrime/obj/Debug/netcoreapp3.1/IsPrime.AssemblyInfoInputs.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/IsPrime/obj/Debug/netcoreapp3.1/IsPrime.AssemblyInfo.cs
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/IsPrime/obj/Debug/netcoreapp3.1/IsPrime.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/IsPrime/obj/Debug/netcoreapp3.1/IsPrime.pdb
